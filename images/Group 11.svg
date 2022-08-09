@@ -1,0 +1,7 @@
+<svg width="28" height="52" viewBox="0 0 28 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g style="mix-blend-mode:multiply">
+<rect x="0.5" y="0.5" width="27" height="51" rx="11.5" fill="white"/>
+<rect x="0.5" y="0.5" width="27" height="51" rx="11.5" stroke="black" stroke-miterlimit="1.41421"/>
+</g>
+<ellipse cx="14.5" cy="16" rx="9.5" ry="10" fill="white"/>
+</svg>
